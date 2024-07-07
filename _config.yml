@@ -1,2 +1,3 @@
 theme: jekyll-theme-leap-day
 url: "https://AbhijnaKalbhag.github.io"
+baseurl: "" # this should be empty for user or organization sites
